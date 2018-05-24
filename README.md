@@ -1,1 +1,1 @@
-This is the old Leavea Review Application that Cedric and Kevin are going upgrade. 
+This is the old "Leave a Review Application" that Cedric and Kevin are going upgrade. 
