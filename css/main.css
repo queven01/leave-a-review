@@ -1,0 +1,13 @@
+#leave-reviews .option {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 4rem;
+}
+
+#leave-reviews .effect {
+    opacity: 0;
+    top: -16rem;
+    display: none;
+}
