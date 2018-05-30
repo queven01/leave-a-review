@@ -32,7 +32,7 @@ jQuery(document).ready(function($) {
 
     $('#leave-reviews .option a[value="back"]').click(function(){
         event.preventDefault();
-        $(this).parent().parent().animate({opacity: '0', top: '-16rem'}, function () {
+        $(this).parent().animate({opacity: '0', top: '-16rem'}, function () {
             $(this).hide();
         });
     });
